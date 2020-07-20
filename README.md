@@ -8,11 +8,11 @@ THEN the user chooses a length of at least 8 characters and no more than 128 cha
 WHEN prompted for character types to include in the password
 THEN the user choose lowercase, uppercase, numeric, and/or special characters
 WHEN each prompt is answered
-THEN the input should be validated and at least one character type should be selected
+THEN the input will be validated and at least one character type will be selected
 WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+THEN the password is written to the page
 ```
 Deployed Link:
 https://marcuspramirez.github.io/password-generator/develop/index.html
