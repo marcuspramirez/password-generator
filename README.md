@@ -16,3 +16,5 @@ THEN the password is written to the page
 ```
 Deployed Link:
 https://marcuspramirez.github.io/password-generator/develop/index.html
+
+![]03-javascript-homework-demo.png
