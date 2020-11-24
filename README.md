@@ -12,10 +12,10 @@
 This app was created to help users create a complex and sercure password instantly. 
 
 ## Installation
-Type node index.js in the command line to start
+No installation required.  Simply click generate password and watch the magic happen.
 
 ## Using the application
-After starting the app by typing node index.js the app will start by prompting the user with questions about their project.  Those questions include: What is the title?  What is your githun user name? etc.  If the question does not apply, simply leave the text blank and push enter.  After all questions are answered, a readme file will populate in the file section on the left hand side. 
+Click on the deployed link below to reach the home page.  Once at the homepage, click the "Generate Password" button. After clicking the button, user will be prompted with five questions.  Those questions relate to the password refeferences. For example, how many characters, uppper and lower case, etc.  After all questions have been answered, a randomized password will appear in the box.  User may copy that password and use it where they please. 
 
 
 ![](assets/readmescrrenshot.PNG)
