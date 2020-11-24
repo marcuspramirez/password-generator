@@ -1,19 +1,25 @@
-GIVEN user needs a new, secure password
-WHEN button clicked to generate a password
-THEN the user is presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN the user selects which criteria to include in the password
-WHEN prompted for the length of the password
-THEN the user chooses a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN the user choose lowercase, uppercase, numeric, and/or special characters
-WHEN each prompt is answered
-THEN the input will be validated and at least one character type will be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is written to the page
-```
+# Password Generator
+
+
+## Table of Contents
+
+* [Decription](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+
+
+## Description
+This app was created to help users create a complex and sercure password instantly. 
+
+## Installation
+Type node index.js in the command line to start
+
+## Using the application
+After starting the app by typing node index.js the app will start by prompting the user with questions about their project.  Those questions include: What is the title?  What is your githun user name? etc.  If the question does not apply, simply leave the text blank and push enter.  After all questions are answered, a readme file will populate in the file section on the left hand side. 
+
+
+![](assets/readmescrrenshot.PNG)
+
 Deployed Link:
 https://marcuspramirez.github.io/password-generator/develop/index.html
 
