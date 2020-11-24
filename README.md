@@ -23,4 +23,4 @@ Click on the deployed link below to reach the home page.  Once at the homepage, 
 Deployed Link:
 https://marcuspramirez.github.io/password-generator/develop/index.html
 
-![]03-javascript-homework-demo.png
+![](03-javascript-homework-demo.png)
