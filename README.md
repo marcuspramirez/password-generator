@@ -9,7 +9,7 @@
 
 
 ## Description
-This app was created to help users create a complex and sercure password instantly. 
+This app was created to help users create a complex and sercure password instantly. The tools used for this app include HTML, CSS and javaScipt.
 
 ## Installation
 No installation required.  Simply click generate password and watch the magic happen.
